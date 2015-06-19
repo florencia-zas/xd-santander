@@ -10,3 +10,80 @@ span.ui-button-text.ui-c:hover {font-weight: normal; border:0!important; }
 .ui-button-text:hover{background:#212121;}
 
 .ui-menu, .ui-menu .ui-menu-child{background:#212121;}
+
+
+body {
+	  background-color: #212121;
+	  color: white;
+}
+
+
+
+.ui-widget-content {
+	border: none;
+  background: transparent;
+  border-bottom: none;
+  color: white;
+}
+
+.ui-datatable-header.ui-widget-header.ui-corner-top {
+	  background: #333;
+	  border: none;
+}
+
+.ui-state-hover, .ui-widget-content .ui-state-hover, .ui-widget-header .ui-state-hover, .ui-state-focus, .ui-widget-content .ui-state-focus, .ui-widget-header .ui-state-focus {
+	background: #444;
+	  color: white;
+}
+
+
+.ui-datatable thead th, .ui-datatable tbody td, .ui-datatable tfoot td, .ui-datatable tfoot th {
+	padding: 10px;
+}
+
+.ui-state-default, .ui-widget-content .ui-state-default, .ui-widget-header .ui-state-default {
+	  border: none;
+  background: #444;
+  font-weight: normal;
+  color: white;
+}
+
+tr.ui-widget-content.ui-datatable-odd.ui-datatable-selectable {
+	  border: none;
+  background: #525252;
+  border-bottom: 1px #666 solid;
+  color: white;
+}
+
+tr.ui-widget-content.ui-datatable-even.ui-datatable-selectable {
+		  border: none;
+  background: #404040;
+  border-bottom: 1px #666 solid;
+  color: white;
+}
+
+tr.ui-widget-content.ui-datatable-odd.ui-datatable-selectable.ui-state-hover, tr.ui-widget-content.ui-datatable-even.ui-datatable-selectable.ui-state-hover {
+  background: #373737;
+}
+
+.ui-chkbox-icon.ui-icon {
+	background-color: white;
+}
+
+.ui-datatable-odd {
+	background-color: #373737
+}
+
+.ui-datatable .ui-datatable-header {
+	  padding: 15px;
+	  height: 50px;
+}
+
+.ui-widget-header a {
+	margin-right: 20px;
+}
+
+.ui-widget-header a:hover {
+	background-color: #e1e1e1;
+}
+
