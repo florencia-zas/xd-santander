@@ -1,0 +1,12 @@
+h1 h2 h3 h4 h5 h6 {font-family: 'Roboto', sans-serif;}
+
+
+
+.ui-button{width:100%; border-top:1px #525252 solid; padding:20px 0 0;}
+.ui-button-text-only .ui-button-text{padding:11px; margin:0 auto;}
+.content .login-box input{margin-bottom:25px !important;}
+span.ui-button-text.ui-c:hover {font-weight: normal; border:0!important; }
+.ui-state-hover{ border:none; box-shadow: none; font-weight: normal;}
+.ui-button-text:hover{background:#212121;}
+
+.ui-menu, .ui-menu .ui-menu-child{background:#212121;}
